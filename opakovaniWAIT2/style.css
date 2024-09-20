@@ -1,0 +1,47 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: antiquewhite;
+    color: bisque;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: blanchedalmond;
+    color: aliceblue;
+    padding: 28px;
+    text-align: center;
+}
+h1, h2{
+    margin: 0;
+}
+h2{
+    margin-top: 20px;
+    color: darkgrey;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px;
+}
+table, th, td{
+    border: 2px solid wheat;
+}
+th, td{
+    padding: 8px;
+}
+th{
+    background-color: azure;
+    color: blue;
+}
+img{
+    width: 300px;
+    height: auto;
+    margin: 20px;
+}
+a{
+    color: brown;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
